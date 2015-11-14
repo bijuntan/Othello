@@ -1,0 +1,2 @@
+# Othello
+# Artificial Intelligence
